@@ -1,4 +1,0 @@
-function getLaserSetting()
-{
-    return 'OFF'
-}
