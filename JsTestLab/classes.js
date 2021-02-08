@@ -15,7 +15,7 @@ class Materializer{
             return undefined;
     }
 }
-
+// node node .\classes.js
 // used by you to test your solution.
 const m = new Materializer('Kevin');
 console.log(m.activated); // would print "false"
